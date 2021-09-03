@@ -1,0 +1,28 @@
+.form {
+  height: 100%;
+  width: 400px;
+  padding: 10px;
+  border: 2px solid rgb(70, 69, 69);
+  border-radius: 3px;
+}
+
+.form__label {
+  color: rgba(1, 6, 27, 0.89);
+  display: block;
+  margin-bottom: 15px;
+}
+
+.form__input {
+  height: 22px;
+  width: 300px;
+  border-color: rgba(165, 42, 42, 0.788);
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.form__button {
+  display: block;
+  height: 26px;
+  border-radius: 5px;
+  background-color: rgba(0, 139, 139, 0.164);
+}

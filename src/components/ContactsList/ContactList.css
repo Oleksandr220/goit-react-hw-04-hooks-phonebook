@@ -1,0 +1,13 @@
+.contactList__item {
+  list-style: none;
+}
+
+.contactList__text {
+  margin: 5px;
+}
+.contactList__button {
+  background-color: rgba(0, 139, 139, 0.164);
+  margin-left: 5px;
+  height: 20px;
+  border-radius: 5px;
+}
